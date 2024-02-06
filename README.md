@@ -10,6 +10,7 @@ Use
 To use Rainbow Keys, hold your camera over your piano or keyboard. You can select from scales or chords at the top of the screen and use the inputs to display the chord or scale of your choice. To play D natural minor, for instance, make sure that 'Scales' is selected, then, on the key input, select the key of D. On the scales input, select 'Minor (natural)'. To play the scale, start on the key of D and work your way up the piano. This app can be used in either portrait or landscape mode. 
 
 Upgrading to Premium
+
 The free version of this app has all the basic chords and scales. For more advanced chords and scales, you can upgrade to the premium version. Simply press the upgrade button in the top left corner of the app. If you have already purchased premium on a previous version of the app, or deleted the app and opened it again, you can restore you purchase using the restore button.
 
 Troubleshooting
